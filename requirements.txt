@@ -1,0 +1,6 @@
+# requirements to use in a virtual env
+numpy
+pandas==2.0.3
+scikit-learn
+tensorflow==2.16.1
+scikeras
