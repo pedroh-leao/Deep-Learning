@@ -5,3 +5,4 @@ scikit-learn
 tensorflow==2.16.1
 scikeras
 matplotlib==3.7.1
+minisom==2.3.3
