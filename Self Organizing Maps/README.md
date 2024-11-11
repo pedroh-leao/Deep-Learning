@@ -1,1 +1,2 @@
 # Self-Organizing Maps (SOM)
+This folder contains models that group wines by type, benign and malignant breast cancer diagnosis, customers in a credit dataset and images of homer and bart sympson, the last two to analyze outliers.
