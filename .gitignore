@@ -2,3 +2,5 @@ venv
 resumoCNN.txt
 resumoRNN.txt
 resumo mapas auto organizaveis.txt
+resumo boltzmann machines.txt
+__pycache__
