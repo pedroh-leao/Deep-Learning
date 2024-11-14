@@ -1,0 +1,2 @@
+# AutoEncoder (AE)
+This folder contains AutoEncoders to reduce the dimensionality of images. There are three types of AE in this folder: Simple AutoEncoder, Deep AutoEncoder and Convolutional AutoEncoder.
